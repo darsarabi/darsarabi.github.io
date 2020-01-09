@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+DARS ARABI
 
-You can use the [editor on GitHub](https://github.com/whiteaiketsu/darsarabi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bahasa Arab kini bisa dipelajari (dari nol) dan dikuasai dengan cara santai dan asyik, di manapun dan kapanpun melalui channel ini.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kalian yang pemula dan mungkin pemalu hanya perlu rileks dan santai saja untuk menikmati setiap konten di dalamnya.
 
-### Markdown
+Setelah menonton setiap video di channel ini, kalian yang ingin punya pengalaman lebih, bisa mencoba mempraktikkan materi pelajarannya lalu mengirim hasilnya kepada kami untuk dikoreksi secara privat. Kirim hasil uji coba dan praktik kalian ke email dan kontak Whatsapp pengelola Channel Dars Arabi ini.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jangan lupa, setelah menonton setiap videonya, klik Like, berikan komentar/masukan/usulan kalian, bagikan kepada yang lain agar manfaatnya semakin meluas, dan Subscribe...
 
-```markdown
-Syntax highlighted code block
+Salam Santai,
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whiteaiketsu/darsarabi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tim Dars Arabi
+Email: darsarabi101@gmail.com
+WA: +62 85 852 693 383
+youtube: https://www.youtube.com/channel/UCXySx_voqxqmeLULRTvKNrQ/about
